@@ -17,10 +17,10 @@ struct SetupView: View {
 
     var body: some View {
         ZStack {
-            
+            // Leaving a comment for GitHub
             Color(#colorLiteral(red: 1, green: 1, blue: 1, alpha: 1))
             HStack {
-                VStack (alignment: .leading, spacing: 20) {
+                VStack (alignment: .leading, spacing: 18) {
                     
                     Image(systemName: "info.circle.fill")
                         .frame(maxWidth: .infinity, alignment: .center)
