@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  DicesApp
+
+  Created by Jesús  Fortuna on 22/08/2020.
+  
+*/
+"title" = "¡RuEDALo!";
+"subtitle" = "¿Tienes suerte?";
+"infoGame" = "DICEs? ha sido creado para resolver disputas\n\n¡Disfruta!";
+"msg1" = "Jeje, tienes mala suerte!";
+"msg2" = "En serio? Daleee que puedes!";
+"msg3" = "Fue mas o menos, que triste!";
+"msg4" = "Ohhh! Nos gusta este numero!";
+"msg5" = "Que bien! Ya casi lo tienes!";
+"msg6" = "Sii!! ¡Lo tienes!";

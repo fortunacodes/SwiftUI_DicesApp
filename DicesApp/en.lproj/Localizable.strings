@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  DicesApp
+
+  Created by Jesús  Fortuna on 22/08/2020.
+  
+*/
+"title" = "¡RoLL IT!";
+"subtitle" = "¿Good luck?";
+"infoGame" = "DICEs? has been created to save you\n\n¡Enjoy!";
+"msg1" = "Buh, you have bad luck honey!";
+"msg2" = "Really? You can do it better";
+"msg3" = "More or less, so sad haha";
+"msg4" = "Ohhh! this number is nice!";
+"msg5" = "So good! You almost got it!";
+"msg6" = "Yes!! ¡You got it honey!";
